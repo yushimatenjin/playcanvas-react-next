@@ -34,10 +34,10 @@ export default function RootLayout({
       <body style={resetStyles}>
         <header style={headerStyles}>
           <nav style={navStyles}>
-            <a href="/glb-viewer" style={linkStyles}>
+            <a href="./glb-viewer" style={linkStyles}>
               GLB Viewer
             </a>
-            <a href="/splat-viewer" style={linkStyles}>
+            <a href="./splat-viewer" style={linkStyles}>
               Splat Viewer
             </a>
           </nav>
